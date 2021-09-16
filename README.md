@@ -35,3 +35,8 @@
 <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" alt="storybook brand logo" width="64" height="64"/>
 </a> 
 </p>
+
+<p align="left">
+<img src="![Cagatay's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagatay-unal&theme=dark&show_icons=true)
+" />
+</p>
