@@ -37,6 +37,5 @@
 </p>
 
 <p align="left">
-<img src="![Cagatay's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagatay-unal&theme=dark&show_icons=true)
-" />
+![Cagatay's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagatay-unal&theme=dark&show_icons=true)
 </p>
