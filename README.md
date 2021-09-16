@@ -40,7 +40,4 @@
 <a href="https://github.com/cagatay-unal/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cagatay-unal&theme=algolia&show_icons=true" width="50%" />
 </a>
-<a href="https://github.com/cagatay-unal/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagatay-unal&langs_count=8" width="50%" />
-</a>
 </p>
