@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@CagatayUnal" target="blank">
-<img align="center" src="https://www.pngitem.com/pimgs/m/214-2148103_medium-logo-round-png-download-medium-logo-round.png" alt="medium brand logo" height="64" width="64" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="medium brand logo" height="64" width="64" />
 </a>
 <a href="https://dev.to/cagatayunal" target="blank">
 <img align="center" src="https://cdn.shopify.com/s/files/1/1626/8507/files/Dev_400x400_50x@2x.png?v=1541525157" alt="devto brand logo" height="64" width="64" />
