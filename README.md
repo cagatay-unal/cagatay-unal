@@ -37,5 +37,7 @@
 </p>
 
 <p align="left">
-![Cagatay's GitHub stats](https://github-readme-stats.vercel.app/api?username=cagatay-unal&theme=dark&show_icons=true)
+<a href="https://github.com/cagatay-unal/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cagatay-unal&theme=dark&show_icons=true" />
+</a>
 </p>
