@@ -5,7 +5,7 @@
 - 🚀 I’m currently working on **@Etstur**
 - 📫 How to reach me **dev.cagatayunal@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://medium.com/@CagatayUnal" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="medium brand logo" height="64" width="64" />
