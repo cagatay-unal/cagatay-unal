@@ -5,16 +5,6 @@
 - 🚀 I’m currently working on **@Etstur**
 - 📫 How to reach me **dev.cagatayunal@gmail.com**
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://medium.com/@CagatayUnal" target="blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="medium brand logo" height="64" width="64" />
-</a>
-<a href="https://dev.to/cagatayunal" target="blank">
-<img align="center" src="https://cdn.shopify.com/s/files/1/1626/8507/files/Dev_400x400_50x@2x.png?v=1541525157" alt="devto brand logo" height="64" width="64" />
-</a>
-</p>
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -42,8 +32,18 @@
     <li><a href="https://dev.to/cagatayunal/debounce-function-in-javascript-47ha">Debounce Function in Javascript</a></li>
 </ul>
 
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://medium.com/@CagatayUnal" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="medium brand logo" height="64" width="64" />
+</a>
+<a href="https://dev.to/cagatayunal" target="blank">
+<img align="center" src="https://cdn.shopify.com/s/files/1/1626/8507/files/Dev_400x400_50x@2x.png?v=1541525157" alt="devto brand logo" height="64" width="64" />
+</a>
+</p>
+
 <details>
-<summary>💡 Github Stats</summary>
+<summary style="margin-bottom: 16px;">💡 Github Stats</summary>
 <a href="https://github.com/cagatay-unal/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cagatay-unal&theme=algolia&show_icons=true" width="50%" />
 </a>
