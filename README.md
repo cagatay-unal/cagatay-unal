@@ -15,7 +15,7 @@
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64"/> 
@@ -36,8 +36,15 @@
 </a> 
 </p>
 
-<p align="left">
+<h2>Latest Blog Posts</h2>
+<ul>
+  <li><a href="https://dev.to/cagatayunal/how-to-use-css-media-query-breakpoint-in-styled-components-9of">How to use CSS Media Query Breakpoint in Styled-Components</a></li>
+    <li><a href="https://dev.to/cagatayunal/debounce-function-in-javascript-47ha">Debounce Function in Javascript</a></li>
+</ul>
+
+<details>
+<summary>💡 Github Stats</summary>
 <a href="https://github.com/cagatay-unal/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cagatay-unal&theme=algolia&show_icons=true" width="50%" />
 </a>
-</p>
+</details>
