@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Cagatay 👋</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1>Hi, I'm Cagatay 👋</h1>
+<h3>Frontend Developer</h3>
 
 
 - 🚀 I’m currently working on **@Etstur**
