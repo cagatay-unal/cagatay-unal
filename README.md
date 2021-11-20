@@ -28,8 +28,8 @@
 
 <h2>Latest Blog Posts</h2>
 <ul>
-  <li><a href="https://dev.to/cagatayunal/how-to-use-css-media-query-breakpoint-in-styled-components-9of">How to use CSS Media Query Breakpoint in Styled-Components</a></li>
-    <li><a href="https://dev.to/cagatayunal/debounce-function-in-javascript-47ha">Debounce Function in Javascript</a></li>
+  <li><a href="https://dev.to/cagatayunal/how-to-use-css-media-query-breakpoint-in-styled-components-9of" target="_blank">How to use CSS Media Query Breakpoint in Styled-Components</a></li>
+    <li><a href="https://dev.to/cagatayunal/debounce-function-in-javascript-47ha" target="_blank">Debounce Function in Javascript</a></li>
 </ul>
 
 <h2 align="left">Connect with me:</h2>
