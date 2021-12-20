@@ -2,7 +2,7 @@
 <h3>Frontend Developer</h3>
 
 
-- 🚀 I’m currently working on **@Etstur**
+- 🚀 I’m currently working on **@GTS | Global Travel Services**
 - 📫 How to reach me **dev.cagatayunal@gmail.com**
 
 <h2 align="left">Languages and Tools:</h2>
