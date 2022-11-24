@@ -1,8 +1,8 @@
 <h1>Hi, I'm Cagatay 👋</h1>
-<h3>Frontend Developer</h3>
+<h3>Senior Frontend Developer</h3>
 
 
-- 🚀 I’m currently working on **@GTS | Global Travel Services**
+- 🚀 I’m currently not working
 - 📫 How to reach me **dev.cagatayunal@gmail.com**
 
 <h2 align="left">Languages and Tools:</h2>
