@@ -12,7 +12,10 @@
 </a> 
 <a href="https://reactnative.dev/" target="_blank"> 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="64" height="64"/>
-</a> 
+</a>     
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="    https://www.typescriptlang.org/images/branding/logo-grouping.svg" alt="typescript" width="64" height="64"/>
+</a>
 <a href="https://vuejs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="64" height="64"/>
 </a>
