@@ -28,6 +28,8 @@
 
 <h2>Latest Blog Posts</h2>
 <ul>
+    <li><a href="https://medium.com/@CagatayUnal/usedebounce-hook-d89aef2db520">useDebounce Hook</a></li>
+  <li><a href="https://medium.com/@CagatayUnal/atomic-design-system-d04672024447">Atomic Design System</a></li>
   <li><a href="https://dev.to/cagatayunal/how-to-use-css-media-query-breakpoint-in-styled-components-9of" target="_blank">How to use CSS Media Query Breakpoint in Styled-Components</a></li>
     <li><a href="https://dev.to/cagatayunal/debounce-function-in-javascript-47ha" target="_blank">Debounce Function in Javascript</a></li>
 </ul>
