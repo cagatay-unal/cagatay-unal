@@ -14,7 +14,7 @@
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="64" height="64"/>
 </a>     
 <a href="https://www.typescriptlang.org/" target="_blank">
-<img src="    https://www.typescriptlang.org/images/branding/logo-grouping.svg" alt="typescript" width="64" height="64"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png?20221110153201" alt="typescript" width="64" height="64"/>
 </a>
 <a href="https://vuejs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="64" height="64"/>
