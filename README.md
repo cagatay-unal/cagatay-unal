@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="64" height="64"/>
 </a>
 <a href="https://sass-lang.com" target="_blank">
-<img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="sass" width="64" height="64"/>
+<img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="sass" width="64" height="64"/>
 </a> 
 <a href="https://styled-components.com/" target="_blank">
 <img src="https://styled-components.com/logo.png" alt="styled-components brand logo" width="64" height="64"/> </a> 
