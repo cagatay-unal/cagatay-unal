@@ -28,7 +28,7 @@
 <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" alt="storybook brand logo" width="64" height="64"/>
 </a> 
 <a href="https://www.cypress.io" target="_blank">
-<img src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg" alt="cypress" width="64" height="64"/>
+<img src="https://go.cypress.io/hs-fs/hubfs/Cypress%20Avatar-2.png" alt="cypress" width="64" height="64"/>
 </a>
     <a href="https://jestjs.io/" target="_blank">
 <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="cypress" width="64" height="64"/>
