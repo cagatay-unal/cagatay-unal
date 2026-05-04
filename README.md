@@ -2,7 +2,7 @@
 <h3>Senior Frontend Developer</h3>
 
 
-- 🚀 I’m currently working in <a href="https://www.pazarama.com/">@Pazarama</a>
+- 🚀 I’m looking for Senior | Staff Frontend Developer roles.
 - 📫 How to reach me **dev.cagatayunal@gmail.com**
 
 <h2 align="left">Languages and Tools:</h2>
