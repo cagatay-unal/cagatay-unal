@@ -6,7 +6,6 @@
 - 📫 How to reach me **dev.cagatayunal@gmail.com**
 
 <h2 align="left">Languages and Tools:</h2>
-<div style="display:flex;">
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="64" height="64"/> 
@@ -35,7 +34,6 @@
 <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="cypress" width="64" height="64"/>
 </a> 
 </p>
-</div>
 <h2>Latest Blog Posts</h2>
 <ul>
     <li><a href="https://medium.com/@CagatayUnal/managing-software-complexity-the-cynefin-framework-9b1983b60d4e">Managing Software Complexity — The Cynefin Framework</a></li>
