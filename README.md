@@ -36,6 +36,7 @@
 </p>
 <h2>Latest Blog Posts</h2>
 <ul>
+    <li><a href="https://medium.com/design-bootcamp/react-reconciliation-fiber-architecture-how-react-renders-efficiently-260dae5e13b4">React Reconciliation & Fiber Architecture: How React Renders Efficiently</a></li>
     <li><a href="https://medium.com/@CagatayUnal/managing-software-complexity-the-cynefin-framework-9b1983b60d4e">Managing Software Complexity — The Cynefin Framework</a></li>
     <li><a href="https://medium.com/@CagatayUnal/usedebounce-hook-d89aef2db520">useDebounce Hook</a></li>
   <li><a href="https://medium.com/@CagatayUnal/atomic-design-system-d04672024447">Atomic Design System</a></li>
